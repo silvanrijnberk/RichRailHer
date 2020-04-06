@@ -1,0 +1,64 @@
+2020/01/30 16:16:08>>>Object created: Train{name='ttt', components=0}
+2020/01/30 16:41:49>>>Object created: Train{name='t1', components=0}
+2020/01/30 16:41:56>>>Object created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/01/30 16:41:59>>>Object added: Component{name='c1', seats=24, type='passengerwagon'} added to Train{name='t1', components=1}
+2020/01/30 16:42:04>>>Object removed: Component{name='c1', seats=24, type='passengerwagon'} removed from Train{name='t1', components=0}
+2020/04/01 02:08:18>>> Train created: Train{name='t1', components=0}
+2020/04/01 02:08:22>>> Component created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/01 02:08:24>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t1
+2020/04/01 02:35:47>>>nothing to save
+2020/04/01 02:36:16>>>nothing to save
+2020/04/01 04:01:31>>> Train created: Train{name='t1', components=0}
+2020/04/01 04:01:37>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/01 04:15:40>>> Train created: Train{name='t1', components=0}
+2020/04/01 04:15:45>>> Component created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/01 04:15:49>>> Component created: Component{name='c2', type='transportwagon'}
+2020/04/01 04:15:53>>> Component created: Component{name='c3', type='locomotive'}
+2020/04/01 04:15:55>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t1
+2020/04/01 04:15:56>>> Removed Component{name='c1', seats=24, type='passengerwagon'} from t1
+2020/04/01 04:15:57>>> Removed Component{name='c1', seats=24, type='passengerwagon'} from t1
+2020/04/01 04:16:15>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 17:23:44>>> Train created: Train{name='t1', components=0}
+2020/04/06 17:23:57>>> Component created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/06 17:24:03>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t1
+2020/04/06 17:24:08>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 17:40:41>>> Train created: Train{name='t1', components=0}
+2020/04/06 17:40:45>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 17:40:48>>>new session started
+2020/04/06 17:40:50>>>new session started
+2020/04/06 17:40:50>>>File loaded: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 17:40:50>>> Train created: Train{name='t1', components=0}
+2020/04/06 17:40:55>>>name already exists
+2020/04/06 17:40:58>>>name already exists
+2020/04/06 17:40:59>>> Train created: Train{name='t2', components=0}
+2020/04/06 17:41:03>>> Component created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/06 17:41:04>>> Component created: Component{name='c2', seats=24, type='passengerwagon'}
+2020/04/06 17:41:06>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t1
+2020/04/06 17:41:08>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t2
+2020/04/06 17:41:10>>> Added Component{name='c2', seats=24, type='passengerwagon'} to t1
+2020/04/06 17:41:13>>> Added Component{name='c2', seats=24, type='passengerwagon'} to t2
+2020/04/06 17:41:19>>> Removed Component{name='c2', seats=24, type='passengerwagon'} from t1
+2020/04/06 17:41:21>>>Object deleted: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/06 17:41:21>>> Removed Component{name='c1', seats=24, type='passengerwagon'} from t1
+2020/04/06 17:41:21>>> Removed Component{name='c1', seats=24, type='passengerwagon'} from t2
+2020/04/06 17:41:35>>> Added Component{name='c2', seats=24, type='passengerwagon'} to t1
+2020/04/06 17:41:38>>>Train can only contain unique components
+2020/04/06 17:41:50>>> Removed Component{name='c2', seats=24, type='passengerwagon'} from t1
+2020/04/06 17:41:54>>>Object deleted: Train{name='t2', components=1}
+2020/04/06 17:42:05>>> Added Component{name='c2', seats=24, type='passengerwagon'} to t1
+2020/04/06 17:42:12>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 22:22:34>>> Train created: Train{name='t1', components=0}
+2020/04/06 22:22:44>>> Component created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/06 22:22:52>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t1
+2020/04/06 22:23:05>>>we dont support this file type
+2020/04/06 22:23:09>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 22:23:14>>>new session started
+2020/04/06 22:23:19>>>new session started
+2020/04/06 22:23:19>>>File loaded: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/06 22:23:19>>> Train created: Train{name='t1', components=0}
+2020/04/06 22:23:19>>> Component created: Component{name='c1', seats=24, type='passengerwagon'}
+2020/04/06 22:23:19>>> Added Component{name='c1', seats=24, type='passengerwagon'} to t1
+2020/04/06 22:23:28>>> Train created: Train{name='t2', components=0}
+2020/04/06 22:23:33>>> Component created: Component{name='c2', seats=24, type='passengerwagon'}
+2020/04/06 22:23:39>>> Added Component{name='c2', seats=24, type='passengerwagon'} to t2
+2020/04/06 22:23:54>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains1.json

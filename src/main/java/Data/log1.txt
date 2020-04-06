@@ -1,0 +1,2 @@
+2020/04/01 04:13:25>>>File loaded: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
+2020/04/01 04:13:30>>>File saved: C:\Users\Silva\IdeaProjects\RichRail_HER\src\main\java\Data\trains.json
